@@ -78,8 +78,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\CameraController.cs" />
-    <Compile Include="Assets\Script\PlayerController.cs" />
+    <Compile Include="Assets\Script\Game\CameraController.cs" />
+    <Compile Include="Assets\Script\Game\CandyControll.cs" />
+    <Compile Include="Assets\Script\Game\GameDirectory.cs" />
+    <Compile Include="Assets\Script\Game\GoalController.cs" />
+    <Compile Include="Assets\Script\Game\HpBarController.cs" />
+    <Compile Include="Assets\Script\Game\KasaContorller.cs" />
+    <Compile Include="Assets\Script\Game\PlayerController.cs" />
+    <Compile Include="Assets\Script\Game2\AmeChan.cs" />
+    <Compile Include="Assets\Script\Game2\AmeGene.cs" />
+    <Compile Include="Assets\Script\Game2\Button.cs" />
+    <Compile Include="Assets\Script\Game2\HPBar.cs" />
+    <Compile Include="Assets\Script\Game2\HPCon.cs" />
+    <Compile Include="Assets\Script\Game2\Item.cs" />
+    <Compile Include="Assets\Script\Game2\Kasa.cs" />
+    <Compile Include="Assets\Script\Game2\PlayerController2.cs" />
+    <Compile Include="Assets\Script\OverDirectory.cs" />
+    <Compile Include="Assets\Script\Result\TimerText.cs" />
+    <Compile Include="Assets\Script\Serect\GoalMode.cs" />
+    <Compile Include="Assets\Script\Serect\YokeruMode.cs" />
+    <Compile Include="Assets\Script\Title\EndTitle.cs" />
+    <Compile Include="Assets\Script\Title\StartTitle.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
