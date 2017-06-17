@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameJam170617_AME", "GameJam170617_AME.csproj", "{355C5B70-6C22-3E16-8B32-48CDDDE11417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355C5B70-6C22-3E16-8B32-48CDDDE11417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355C5B70-6C22-3E16-8B32-48CDDDE11417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355C5B70-6C22-3E16-8B32-48CDDDE11417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355C5B70-6C22-3E16-8B32-48CDDDE11417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
